@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ffp-facts-from-parliament",
+    "description": "",
+    "home_page_url": "https://therealmccoy.github.io/facts-from-parliament",
+    "feed_url": "https://therealmccoy.github.io/facts-from-parliament/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "abhishek rai"
+    },
+    "items": [
+        {
+            "id": "https://therealmccoy.github.io/facts-from-parliament/about-facts-from-parliament/",
+            "url": "https://therealmccoy.github.io/facts-from-parliament/about-facts-from-parliament/",
+            "title": "About, F F P",
+            "content_html": "<p>This is an initiative to bring forth facts from questions and answers discused in both houses (<a href=\"http://loksabha.nic.in/\">Lok Sabha</a> and <a href=\"http://rajyasabha.nic.in/\">Rajya Sabha</a>) of the Indian Parliament, in an easy consummable manner for all.</p>\n<p>There are 425 questions discussed everyday the house is in session, in both houses of parilament, when question hour is called.</p>\n<p> </p>",
+            "image": "https://therealmccoy.github.io/facts-from-parliament/media/posts/1/pexels-photo-243115.jpeg",
+            "author": {
+                "name": "abhishek rai"
+            },
+            "tags": [
+                   "Rajyasabha",
+                   "Loksabha"
+            ],
+            "date_published": "2018-03-31T22:10:41+05:30",
+            "date_modified": "2018-03-31T22:10:41+05:30"
+        }
+    ]
+}

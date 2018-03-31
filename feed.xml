@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>ffp-facts-from-parliament</title>
+    <link href="https://therealmccoy.github.io/facts-from-parliament/feed.xml" rel="self" />
+    <link href="https://therealmccoy.github.io/facts-from-parliament" />
+    <updated>2018-03-31T22:17:00+05:30</updated>
+    <author>
+        <name>abhishek rai</name>
+    </author>
+    <id>https://therealmccoy.github.io/facts-from-parliament</id>
+
+    <entry>
+        <title>About, F F P</title>
+        <author>
+            <name>abhishek rai</name>
+        </author>
+        <link href="https://therealmccoy.github.io/facts-from-parliament/about-facts-from-parliament/"/>
+        <id>https://therealmccoy.github.io/facts-from-parliament/about-facts-from-parliament/</id>
+            <category term="Rajyasabha"/>
+            <category term="Loksabha"/>
+
+        <updated>2018-03-31T22:10:41+05:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://therealmccoy.github.io/facts-from-parliament/media/posts/1/pexels-photo-243115.jpeg" alt="" />
+                <p>This is an initiative to bring forth facts from questions and answers discused in both houses (<a href="http://loksabha.nic.in/">Lok Sabha</a> and <a href="http://rajyasabha.nic.in/">Rajya Sabha</a>) of the Indian Parliament, in an easy consummable manner for all.</p>
+<p>There are 425 questions discussed everyday the house is in session, in both houses of parilament, when question hour is called.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
